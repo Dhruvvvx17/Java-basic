@@ -1,10 +1,12 @@
 // To understand the concepts of objects and classes
 
 class account{
+    //instance variables
     int acc_no;
     String name;
     float amount;
 
+    //methods
     void insert(int no, String Name, float amt){
         acc_no = no;
         name = Name;
