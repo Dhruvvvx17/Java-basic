@@ -14,7 +14,7 @@ class bike extends vehical{
 
 public class upcasting {
     public static void main (String args[]){
-        vehical obj = new bike();   //upcasting
+        vehical obj = new bike();       //upcasting
         obj.run();
     }
 }
