@@ -28,8 +28,8 @@ class lamborghini extends car {
 
 public class super3 {
     public static void main (String args[]){
-        lamborghini l1 = new lamborghini(); 
-        lamborghini l2 = new lamborghini(1); 
+        lamborghini l1 = new lamborghini();     // default constructor is called
+        lamborghini l2 = new lamborghini(1);    // parametrized constructor is called
         l1.blank();
         l2.blank();
     }
