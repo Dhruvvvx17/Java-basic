@@ -5,3 +5,5 @@ public class package1 {
       System.out.println("Welcome to package 1");  
     }
 }
+
+//A package is always of the form "com.company.project"
