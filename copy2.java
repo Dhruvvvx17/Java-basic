@@ -1,4 +1,4 @@
-// Way to implement copy constructor - 2 without using constructor overloading
+// Way to implement copy constructor - 2 without using constructor overloading in driver program
 
 class student {
     int id;
