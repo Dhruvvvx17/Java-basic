@@ -1,3 +1,5 @@
+//Binary search
+
 public class binarySearch {
 
     static void insertionsort(int array[]){
