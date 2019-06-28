@@ -4,12 +4,12 @@ class student{
     int id;
     String name;
 
-    student(int i, String n){
+    student(int i, String n){   //parametrized constructor
         id = i;
         name = n;
     }
 
-    student(student s){
+    student(student s){         //parametrized constructor acting as copy constructor
         id = s.id;
         name = s.name;
     }
@@ -27,3 +27,5 @@ public class copy1 {
         s2.display();
     }
 }
+
+//copy constructor is an inefficient way to clone an object however just for copying an objects current values its fine.
