@@ -1,3 +1,5 @@
+//Java program to check if the given number is prime or not
+
 public class prime{
     public static void main(String args[]){
         int num = 11;   //number to be checked
