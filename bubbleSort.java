@@ -1,3 +1,5 @@
+//bubble sort
+
 public class bubbleSort {
 
     static void bubblesort(int array[]){
