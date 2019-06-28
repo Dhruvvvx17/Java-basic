@@ -7,7 +7,7 @@ class xyz {
     }
 
     xyz(int n) {
-        this();      // this(); automatically translating into the default constructor of the class
+        this();     // this(); automatically translating into the default constructor of the class
         System.out.println("Hello from parameterized constructor");
         System.out.println(n);
     }
