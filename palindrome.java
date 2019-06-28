@@ -1,3 +1,5 @@
+//Java program to check for palindrome numbers
+
 class palindrome {
     public static void main(String args[]) {
         int r, sum = 0, temp;
