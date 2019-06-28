@@ -13,3 +13,5 @@ public class defaultConstructor {
         b.no = 4101;
     }
 }
+//default constructor is invoked automatically when object is create
+//output is "Bike null is created" as name is not assigned any value when default constructor is called
