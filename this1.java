@@ -6,7 +6,7 @@ class student{
     double gpa;
 
     student(int id,String name,double gpa){
-        this.id = id;
+        this.id = id;                       //same variable names different contexts
         this.name = name;
         this.gpa = gpa;
     }
