@@ -7,8 +7,8 @@ class animal{
 class dog extends animal{
     String color = "Black";
     void disp(){
-        System.out.println(color);
-        System.out.println(super.color);
+        System.out.println(color);          //color = Black
+        System.out.println(super.color);    //super.color = White
     }
 }
 
