@@ -1,3 +1,5 @@
+//selection sort
+
 public class selectionSort {
 
     static void selectionsort(int array[]){
