@@ -1,6 +1,7 @@
 //To understand the concepts of objects and classes
 
 class student {
+    //Instance variables
     int id;
     String name;
 }
