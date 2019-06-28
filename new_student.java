@@ -15,7 +15,7 @@ public class new_student{
 class test {
     public static void main(String args[]) {
         new_student s = new new_student();
-        s.setName("Dhruv");
-        System.out.println(s.getName());
+        s.setName("Dhruv");         //invoke setter
+        System.out.println(s.getName());    //invoke getter
     }
 }
