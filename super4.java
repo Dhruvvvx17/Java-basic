@@ -1,3 +1,5 @@
+//super to invoke constructors and reuse existing code
+
 class person{
     int id;
     String name;
