@@ -1,3 +1,4 @@
+//Linear search
 public class linearSearch {
     static int linearsearch(int array[], int ele){
         int n = array.length;            
