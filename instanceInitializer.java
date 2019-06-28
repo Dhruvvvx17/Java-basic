@@ -18,7 +18,7 @@ class pqr extends xyz{
         System.out.println("Child class instance initializer block");
     }
 
-    void blank(){}
+    void blank(){}      //blank method to remove "object not used warning"
 }
 
 
