@@ -1,3 +1,5 @@
+//Insertion sort
+
 public class insertionSort {
 
     static void insertionsort(int array[]){
