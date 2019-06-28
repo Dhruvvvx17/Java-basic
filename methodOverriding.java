@@ -1,3 +1,5 @@
+//Method Overriding
+
 class vehical{
     void run(){
     System.out.println("Vehical is running");
@@ -16,3 +18,5 @@ public class methodOverriding {
         obj1.run();
     }
 }
+
+//An attempt to override a static method will just hide the superclass static method insted of overriding it
