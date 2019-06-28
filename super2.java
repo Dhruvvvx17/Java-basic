@@ -15,7 +15,7 @@ class dog extends animal{
     }
     void disp(){
         color();
-        super.color();
+        super.color();      //parent class method to be invoked
         breed();
     }
 }
