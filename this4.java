@@ -3,7 +3,7 @@
 class xyz {
 
     xyz() {
-        this(10); // this(int n); automatically translating into the param constructor of the class
+        this(10);   // this(int n); automatically translating into the param constructor of the class
         System.out.println("Hello from default constructor");
     }
 
