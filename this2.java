@@ -7,7 +7,7 @@ class xyz {
     }
     void method2(){
         System.out.println("Hello from method 2");
-        this.method1();                             //refering to its own class method
+        this.method1();                            //refering to its own class method
     }
 }
 
