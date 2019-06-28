@@ -1,3 +1,7 @@
+//abstrcation implementing abstract classes with an abstract method.
+//abstract method is only a method declaration without a body
+//when the class is inherited, the child class should either give a body for the abstract method or declare itself as abstract.
+
 abstract class shape{
     abstract void draw();       //abstract method
 }
