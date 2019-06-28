@@ -8,7 +8,7 @@ interface pqr{
     void print();   //method 2 same name
 }
 
-class create implements xyz,pqr{
+class create implements xyz,pqr{    //multiple inheritance using interfaces
     public void print(){            //only 1 implementation for both.
         System.out.println("Printing...");
     }
