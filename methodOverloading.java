@@ -3,7 +3,7 @@
 class compute{
     int sum(int a, int b){ return(a+b);}
     int sum(int a, int b, int c){ return(a+b+c);}
-    //static int sum(int a, int b){ return(a+b);}
+    //static int sum(int a, int b){ return(a+b);}               //alternate static implementation
     //static int sum(int a, int b, int c){ return(a+b+c);}
 }
 
