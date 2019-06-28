@@ -1,3 +1,5 @@
+//Interfaces and classes
+
 interface drawable{
     void draw();        //compiler changes it to:   public static void draw();
 }
