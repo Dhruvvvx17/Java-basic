@@ -4,7 +4,7 @@ class student{
     int id;
     String name;
 
-    student(int i,String n){
+    student(int i,String n){    //constructor taking in parameters
         id = i;
         name = n;
     }
