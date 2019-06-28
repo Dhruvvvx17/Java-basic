@@ -13,8 +13,8 @@ class solve{
 
 public class calc {
     public static void main (String args[]){
-        System.out.println(solve.cube(5));    
-        System.out.println(solve.square(5));    
+        System.out.println(solve.cube(5));          // invoked without reference variable    
+        System.out.println(solve.square(5));        // invoked without reference variable
     }
 }
 
